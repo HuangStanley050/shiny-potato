@@ -1,1 +1,9 @@
-{}
+{
+	"auth": {
+		"ampauth1071fac4": {
+			"service": "Cognito",
+			"providerPlugin": "awscloudformation",
+			"dependsOn": []
+		}
+	}
+}

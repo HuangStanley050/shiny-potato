@@ -10,6 +10,13 @@
             "StackName": "amplify-ampauth-local-115744",
             "StackId": "arn:aws:cloudformation:ap-southeast-2:019137212646:stack/amplify-ampauth-local-115744/029ad520-8f3d-11ea-a26a-02bf7f1fc1f4",
             "AmplifyAppId": "d1km6ysjly7tf3"
+        },
+        "categories": {
+            "auth": {
+                "ampauth1071fac4": {
+                    "hostedUIProviderCreds": "[{\"ProviderName\":\"Facebook\",\"client_id\":\"291568355191557\",\"client_secret\":\"1cb306d9b383a33bed118e326646e9b2\"},{\"ProviderName\":\"Google\",\"client_id\":\"986386741937-s8g0oivak02t5svqe9u36sf12l4ode52.apps.googleusercontent.com\",\"client_secret\":\"UiE5nx8BuT_SqmJ6KLjJGsO5\"}]"
+                }
+            }
         }
     }
 }
